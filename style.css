@@ -1,0 +1,38 @@
+body{
+    background-color:white;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.header_div{
+    background-color:gold;
+    font-family: 'Akaya Telivigala', cursive;
+    color: black;
+    font-size: 60px;
+}
+
+.header_div p{
+    font-size : 20px;
+    font-family: 'Cormorant Garamond', serif;
+    color: rgb(61, 61, 61);
+    letter-spacing: 2px;
+}
+
+button{
+    font-family: 'Cormorant Garamond', serif;
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 2px;
+    font-weight: 700;
+    background-color: gold;
+}
+
+.copy_right_footer{
+    bottom: 0;
+    background-color: gold;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    position: fixed;
+    width: 100%;
+    text-shadow: 5px 5px 5px black ;
+}
